@@ -16,19 +16,12 @@ def emoji():
 REDDIT_BASEURL = "https://api.reddit.com/r/{sub}/random"
 MARTINE_API_BASE_URL = "https://api.martinebot.com/v1/images/subreddit"
 IMGUR_LINKS = ("http://imgur.com", "https://m.imgur.com", "https://imgur.com")
-NOT_EMBED_DOMAINS = (
-    "gfycat.com/",
-    "gifdeliverynetwork.com/",
-    "redgifs.com",
-    "imgur.com/gallery/",
-    "imgur.com/a/",
-    ".gifv",
-)
+NOT_EMBED_DOMAINS = ("gfycat.com/", "gifdeliverynetwork.com/", "redgifs.com", "imgur.com/gallery/", "imgur.com/a/", ".gifv")
 GOOD_EXTENSIONS = (".png", ".jpg", ".jpeg", ".gif", "gifv")
 
 # Main Subreddits
+MEMES = ["dankmemes", "memes"]
 RETRO = ["oldschoolcool", "thewaywewere"]
-IMAGINARY = ["ImaginaryWorlds"]
 
 # NSFW Subreddits
 FOUR_K = ["Hegre", "HighResASS", "HighResNSFW", "NSFW_Wallpaper", "UHDnsfw"]
