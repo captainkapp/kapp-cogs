@@ -26,8 +26,9 @@ NOT_EMBED_DOMAINS = (
 )
 GOOD_EXTENSIONS = (".png", ".jpg", ".jpeg", ".gif", "gifv")
 
-# SFW Subreddits
+# Main Subreddits
 RETRO = ["oldschoolcool", "thewaywewere"]
+IMAGINARY = ["ImaginaryWorlds"]
 
 # NSFW Subreddits
 FOUR_K = ["Hegre", "HighResASS", "HighResNSFW", "NSFW_Wallpaper", "UHDnsfw"]
@@ -37,6 +38,38 @@ ASS = ["AssOnTheGlass", "AssReveal", "AssholeBehindThong", "ButtsAndBareFeet", "
     "Upshorts", "ass", "assinthong", "asstastic", "beautifulbutt",
     "bigasses", "booty", "brunetteass", "datgap", "girlsinleggings",
     "girlsinyogapants", "hugeass", "paag", "pawg", "facedownassup"]
+# ANAL
+# BBW
+# BDSM
+# BLOWJOB
+# BOOBS
+# BOTTOMLESS
+# COSPLAY
+# CUNNI
+# CUMSHOTS
+# DEEPTHROAT
+# DICK
+# EBONY
+# FACIALS
+# FEET
+# FEMDOM
+# FUTA
+# GAY
+GROUPS = ["GroupOfNudeGirls", "groupsex"]
+# LESBIANS
+# MILF
+# ORAL
+# PUBLIC
+# PUSSY
+# REAL_GIRLS
+# REDHEADS
+RULE_34 = ["Rule_34", "WesternHentai", "rule34", "rule34cartoons", "rule34_ass",
+    "Rule34Overwatch", "Overwatch_Porn", "Rule34LoL"]
+# SQUIRT
+THIGHS = ["ThickThighs", "Thigh", "datgap", "leggingsgonewild", "legs",
+    "legsup", "theratio", "thighhighs"]
+# THREESOME
+TRANS = ["GoneWildTrans"]
 WILD = ["ArtGW", "AsiansGoneWild", "BigBoobsGW", "BigBoobsGonewild", "GWCouples",
     "GWNerdy", "GirlsWithBikes", "GoneWildSmiles", "LingerieGW", "PetiteGoneWild",
     "Swingersgw", "TallGoneWild", "UnderwearGW", "altgonewild", "bigonewild",
