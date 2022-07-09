@@ -22,7 +22,7 @@ class reddit(Core):
         await self._send_msg(ctx, _("ass"), sub.ASS)
     
     # SFW Commands
-    @commands.command(aliases=["vintage"])
+    @commands.command(aliases=["meme", "dank"])
     async def memes(self, ctx):
         """Sends a meme from a random subreddit."""
 
