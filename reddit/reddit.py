@@ -23,6 +23,12 @@ class reddit(Core):
     
     # SFW Commands
     @commands.command(aliases=["vintage"])
+    async def memes(self, ctx):
+        """Sends a meme from a random subreddit."""
+
+        await self._send_msg(ctx, _("memes"), sub.MEMES)
+
+    @commands.command(aliases=["vintage"])
     async def retro(self, ctx):
         """Sends a retro image from a random subreddit."""
 
