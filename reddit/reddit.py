@@ -14,6 +14,15 @@ _ = Translator("reddit", __file__)
 class reddit(Core):
     """Send random images from random subreddits."""
 
+    __version__ = "1.0.0"
+
+    # Cog Commands
+    @commands.command()
+    async def redditversion(self, ctx):
+        """Get version number of installed Reddit cog."""
+
+        await self._version_msg(ctx, self.__version__)
+
     # Group Subreddit Commands
     @commands.command()
     async def mainrandom(self, ctx):
