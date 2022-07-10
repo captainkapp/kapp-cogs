@@ -2,7 +2,7 @@ import asyncio
 import concurrent
 
 import discord
-import speedtest
+import speedtest-cli
 from redbot.core import checks, commands
 
 class kapptools(commands.Cog):
