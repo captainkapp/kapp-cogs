@@ -25,8 +25,8 @@ _ = Translator("reddit", __file__)
 @cog_i18n(_)
 class Core(commands.Cog):
 
-    __author__ = ["Predä", "aikaterna"]
-    __version__ = "2.3.98"
+    __author__ = ["Kapp"]
+    __version__ = "1.0.0"
 
     async def red_delete_data_for_user(self, **kwargs):
         """Nothing to delete."""

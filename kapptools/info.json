@@ -1,0 +1,17 @@
+{
+    "name": "Kapp Tools",
+    "author": [
+        "Kapp"
+    ],
+    "short":,
+    "description":,
+    "install_msg": "Thanks for installing Kapp Tools!",
+    "requirements": [
+        "speedtest-cli>=2.1.3"
+    ],
+    "tags": [
+        "utility", "system", "tools"
+    ],
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users."
+
+}
