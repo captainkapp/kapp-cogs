@@ -1,0 +1,8 @@
+{
+    "author": ["Kapp"],
+    "install_msg": "Reddit cog successfully installed!\nUse `[p]help reddit` to get all commands.",
+    "name": "Reddit",
+    "short": "Send random images from subreddits.",
+    "description": "Send random images from subreddits.",
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users"
+}
