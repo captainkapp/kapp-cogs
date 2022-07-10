@@ -5,9 +5,7 @@ import discord
 import speedtest
 from redbot.core import checks, commands
 
-BaseCog = getattr(commands, "Cog", object)
-
-class kapptools(BaseCog):
+class kapptools(commands.Cog):
     "A bunch of useful commands and utilities."
 
     __author__ = "Kapp"
