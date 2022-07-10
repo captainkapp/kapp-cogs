@@ -99,7 +99,7 @@ class reddit(Core):
         await self._send_msg(ctx, _("pixel"), sub.PIXEL)
 
     # NSFW Subreddit Commands
-    @commands.command(name="4k", aliases="4K")
+    @commands.command(name=["4k"], aliases=["4K"])
     async def four_k(self, ctx):
         """Sends a 4k image from a random subreddit."""
 
