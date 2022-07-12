@@ -1,0 +1,10 @@
+{
+    "author": [
+        "Kapp"
+    ],
+    "install_msg": "Quotes cog installed!",
+    "name": "Quotes",
+    "short": "Send random quotes",
+    "description": "Send random quotes from a predetermined list.",
+    "end_user_statement": "This cog does not persistently store any data or metadata about users."
+}
